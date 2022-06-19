@@ -1,5 +1,5 @@
-# LEAD
-what is LEAD? well lead is a multi tool with ALOT of features.
+# [LEAD](https://lead-tool.win/)
+what is LEAD? well lead is a multi tool with ALOT of features. We even have a image hosting service!
 (the image below is old more features are currently being added)
 ![LEAD](https://lead-tool.win/leadperspectif.png)
 
