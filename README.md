@@ -9,5 +9,5 @@ and has HWID access + a login system only.
 [Discord](https://discord.gg/lead)
 
 # Contributors/Devs of LEAD
-1. xman (official creator of LEAD)
+1. xman (official creator and dev of LEAD)
 2. zt/x8g (dev of LEAD)
